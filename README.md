@@ -1,2 +1,2 @@
 # simple-java-docker
-apps that runs om docker
+A simple java app that runs on docker 
